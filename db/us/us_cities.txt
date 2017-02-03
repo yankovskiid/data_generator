@@ -1,0 +1,130 @@
+Abilene, 78301
+Akron, 43085
+Albuquerque, 87501
+Alexandria Virginia, 98506
+Allentown, 17101
+Amarillo, 78304
+Aurora, 80214
+Aurora, 62701
+Austin, 78367
+Bakersfield, 94203
+Baltimore Maryland, 21405
+Baton, 70806
+Beaumont, 78303
+Bellevue, 25305
+Berkeley, 94206
+Billings, 59606
+Birmingham, 36101
+Boise, 83703
+Boston Massachusetts, 02101
+Boulder, 80215
+Bridgeport, 06102
+Centennial, 80216
+Chandler, 85007
+Charleston, 29201
+Charlotte, 27601
+Chattanooga, 37201
+Chesapeake Virginia, 98501
+Chicago, 62705
+Chula Vista, 94209
+Cincinnati, 4306
+Clarksville, 37202
+Clearwater, 32345
+Cleveland, 43087
+Colorado Springs, 80217
+Columbia, 29202
+Columbia, 65107
+Columbus, 43088
+Columbus, 30317
+Concord, 94256
+Coral, 32346
+Corona, 94213
+Corpus, 78399
+Costa, 94223
+Daly, 95203
+Davenport, 50301
+Denton, 78398
+Denver, 80218
+Des Moines, 50302
+Detroit, 48901
+Downey, 95203
+Durham, 27606
+El, 78395
+Elgin, 62707
+Elizabeth, 08604
+Elk, 94273
+Erie, 17109
+Escondido, 94293
+Eugene, 97304
+Evansville, 46206
+Fayetteville, 27605
+Flint, 48902
+McAllen, 78356
+Memphis, 37544
+Mesa, 85009
+Miami, 32347
+Miami, 32348
+Milwaukee, 82001
+Minneapolis, 55105
+Miramar, 32349
+Mobile, 36103
+Modesto, 94204
+Montgomery, 36104
+Moreno, 94267
+New Haven, 06107
+New Orleans, 70809
+New York, 12201
+Newark, 08603
+Newport, 98507
+Norfolk Virginia, 98509
+Norman, 73101
+North Las Vegas, 89705
+Norwalk, 94211
+Oceanside, 94212
+Odessa, 78344
+Overland, 66601
+Oxnard, 94213
+Palmdale, 94214
+Pasadena, 78377
+Pasadena, 94215
+Paterson, 08601
+Pembroke Pines, 32399
+Peoria, 85056
+Peoria, 62791
+Philadelphia Pennsylvania, 17104
+Phoenix, 85003
+Pittsburgh, 17109
+Pomona, 94216
+Pompano Beach, 32301
+Port St Lucie, 32302
+Portland, 97307
+Providence, 02901
+Provo, 84101
+Pueblo, 80219
+Rancho Cucamonga, 94217
+Roseville, 94218
+Round Rock, 78388
+Salem, 97309
+Salinas, 94219
+Salt Lake City, 84102
+San, 78399
+Santa, 94220
+Savannah, 30318
+Scottsdale, 85090
+Seattle, 25307
+Shreveport, 70812
+Simi, 94290
+Sioux, 57501
+South, 46287
+Spokane, 25345
+Springfield, 02102
+Springfield, 62751
+St Louis, 65109
+St Paul, 55106
+St Petersburg, 32321
+Stamford, 06109
+Sterling, 48905
+Stockton, 94291
+Winston-Salem, 27612
+Worcester Massachusetts, 02103
+Yonkers, 12203
